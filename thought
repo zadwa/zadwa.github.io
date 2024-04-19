@@ -1,0 +1,6 @@
+首先，需要在本地安装 Jekyll。使用 RubyGems 来安装 Jekyll。
+创建一个新的 Jekyll 站点。
+进入项目目录。
+运行本地服务器，进行预览。
+将博客上传到 GitHub。
+通过 https://username.github.io 访问bolg。
