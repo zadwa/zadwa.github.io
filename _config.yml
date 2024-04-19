@@ -118,7 +118,7 @@ valine:
     friends: '小伙伴'
     visitor: '访客'
   # MD5 加密后的博主邮箱 MD5加密工具：https://c.runoob.com/front-end/703/
-  master: 
+  master: jiliujun
   # md5MD5 加密后的小伙伴邮箱
   friends: 
   # 昵称框 自动获取QQ头像 默认 false/true
